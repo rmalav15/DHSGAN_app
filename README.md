@@ -1,4 +1,4 @@
-# TF Lite Android App
+# DHSGAN Android App (Imported from TFLite Demo.)
 
 ## Building from Source with Bazel
 
